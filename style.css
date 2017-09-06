@@ -1,0 +1,42 @@
+body
+{
+	background-color: #eceff0;
+}
+
+.list
+{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	background-color: #fff;
+	margin: 20px auto;
+	width: 100%;
+	max-width: 500px;
+	padding: 20px;
+	box-sizing: border-box;
+	border-radius: 2px;
+}
+
+form 
+{
+	width: 100%; 
+}
+
+form p 
+{
+	color: black;
+	margin: 0px;
+}
+
+td
+{
+	border: 0;
+	border-bottom: 1px dashed;
+	padding: 15px 0;
+}
+
+.delete a{
+	color: white;
+	background: #000000;
+	padding: 1px 6px;
+	border-radius: 3px;
+	text-decoration: none;
+}
